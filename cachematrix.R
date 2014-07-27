@@ -65,10 +65,3 @@ cacheSolve <- function(x, ...) {
         x$setInverse(i)
         i
 }
-
-# $ cd C:\Users\TransOrg\Documents\GitHub\ProgrammingAssignment2
-# $ git add cachematrix.R
-# $ git status -s
-# M  cachematrix.R
-# $ git commit -m 'Test'
-# $ git push
